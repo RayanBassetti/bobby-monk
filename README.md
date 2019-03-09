@@ -1,9 +1,17 @@
-Petit projet fait en autodidacte pour apprendre le Javascript ! 
+Personnal project to learn how to use Javascript and random arrays.
 
-Comment ça marche : 
+# How it works : 
 
-- Poser une question au site, qui répond aléatoirement par oui ou par non.
+- Write text in the HTML input, click the button below or press enter
+- Displays a random "yes" or "no".
 
-Si vous souhaitez me contacter, n'hésitez pas à le faire directement sur Facebook en m'ajoutant en ami (Rayan Bassetti), ou en m'envoyant directement un mail via r.bassetti@icloud.com ! 
+# It it compatible : 
+- Desktop : Not finished.
+- Mobile : Let's avoid the subject.
 
-Merci bien ! 
+# Goals for this project : 
+- Huge work on the CSS to be done (probably going to change to SASS).
+- Comments to rewrite in English.
+- Animations/sound to add.
+
+
